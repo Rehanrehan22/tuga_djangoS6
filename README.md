@@ -1,0 +1,1 @@
+"# tuga_djangoS6" 
